@@ -2,7 +2,7 @@
 
 ## General
 
-This repository is used for Git practice. It contains examples for various aspects of Git usage, including:
+This repository is used for Git practice. It contains examples for various aspects of Git usage, fsincluding:
 
 - Git basic usage
 - Branching
